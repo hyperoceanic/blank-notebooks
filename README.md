@@ -25,6 +25,7 @@ June 2025. First release of Numbered Pages Notebook.
 You can use these notebooks in any way you wish with the following restrictions:
 
 1. The copyright for these PDF files remains with Mark Smith.
+1. You may not distribute them, in any form, blank or filled without obtaining prior written permission.
 1. You may not sell them, in any form, blank or filled in without obtaining prior written permission.
 2. You may not modify or remove any part of them, including any copyright or attribution notices.
 3. You must try to at all times be kind.
